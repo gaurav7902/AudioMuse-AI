@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main # Or your main branch, e.g., 'master'
+      - docs-fix
 
 permissions:
   contents: write
