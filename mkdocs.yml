@@ -1,5 +1,5 @@
 site_name: AudioMuse-AI Documentation
-docs_dir: web
+docs_dir: docs
 site_url: https://neptunehub.github.io/AudioMuse-AI/
 repo_url: https://github.com/NeptuneHub/AudioMuse-AI
 repo_name: GitHub
@@ -14,4 +14,5 @@ nav:
   - Parameters: PARAMETERS.md
   - Authentication: AUTH.md
 
-theme: readthedocs
+theme:
+  name: material
