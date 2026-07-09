@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main # Or your main branch, e.g., 'master'
-
+      - another
 permissions:
   contents: write
   pages: write
